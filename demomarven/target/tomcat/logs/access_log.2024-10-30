@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [30/Oct/2024:23:49:59 +0530] "GET /demomarven HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Oct/2024:23:50:07 +0530] "GET /demomarven/ HTTP/1.1" 200 580 http-bio-9090-exec-3 7683
+0:0:0:0:0:0:0:1 - - [30/Oct/2024:23:50:29 +0530] "POST /demomarven/register.jsp HTTP/1.1" 500 2775 http-bio-9090-exec-5 827
